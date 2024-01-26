@@ -1,5 +1,5 @@
 # Node-Express-Mongo Property Ads Api
-
+This backend implementation creates several REST architecture based API endpoints for authentication, user registeration and property CRUD operations in the DB for property and housing web-app.
 
 ## Installation
 
