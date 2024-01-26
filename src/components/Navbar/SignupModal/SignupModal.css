@@ -1,0 +1,52 @@
+.MuiInputBase-root {
+  border: 2px solid rgba(92, 92, 92, 0.219);
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px 15px;
+  background-color: rgba(240, 240, 240, 0.694);
+}
+
+.signup-paper .MuiInputBase-root {
+  width: 270px;
+}
+
+.MuiInput-underline::before,
+.MuiInput-underline::after {
+  visibility: hidden;
+}
+/* .MuiInput-underline:hover {
+  border-bottom: initial;
+} */
+
+.MuiButtonBase-root {
+  background-color: #eee !important;
+  margin-left: 6px !important;
+}
+
+/* .makeStyles-paper-2 {
+  width: auto !important;
+} */
+
+h2#simple-modal-title {
+  margin-bottom: 10px;
+}
+
+.modal-subtitle {
+  width: max-content;
+  margin: auto;
+}
+
+.input-label {
+  margin: auto 5px;
+}
+
+.signup-paper .help-block {
+  height: auto;
+  margin: auto 5px;
+  font-size: 12px;
+  color: red;
+}
+
+.error {
+  border-color: rgba(255, 17, 17, 0.808);
+}

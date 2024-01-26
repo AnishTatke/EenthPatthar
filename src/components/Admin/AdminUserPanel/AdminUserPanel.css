@@ -1,0 +1,13 @@
+.admin-user-panel h1 {
+  text-align: start;
+  margin: 25px auto 10px auto;
+}
+
+.admin-user-panel {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.user-list {
+  margin-top: 25px;
+}

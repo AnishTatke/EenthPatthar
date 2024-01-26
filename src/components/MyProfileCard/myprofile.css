@@ -1,0 +1,40 @@
+.adjust_image {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  height: 100%;
+}
+
+.my_profile_card .img-fluid {
+  height: 100%;
+  object-fit: cover;
+  padding: 10px 0px;
+}
+
+.my_profile_card .card-text p {
+  margin-bottom: 2px;
+}
+
+.col-buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+.my_profile_card .img-fluid {
+  max-width: 230px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 50% !important;
+}
+
+.empty-list-msg {
+  width: max-content;
+  font-size: 20px;
+  display: flex;
+  margin: auto;
+  align-self: center;
+}
+
+.my-property-list-container {
+  min-height: 300px;
+}
